@@ -1,0 +1,9 @@
+Origin: uf0x repo
+Label: uf0x repo
+Suite: stable
+Version: 1.0
+Codename: uf0x
+Architectures: iphoneos-arm
+Components: main
+Description: uf0x repo
+MD5Sum:
